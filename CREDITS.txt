@@ -1,0 +1,14 @@
+ZENITH AI - AUDIO ASSETS CREDITS
+
+This folder contains audio resources used in the Zenith AI mobile application.
+
+The audio files included here are provided by Pixabay (https://pixabay.com/) under the Pixabay Content License.
+
+License Summary:
+- Commercial use is permitted.
+- No attribution is required (though greatly appreciated).
+- Modifications are allowed.
+
+These assets are hosted here to serve as a stable CDN for the Zenith AI application. They are not for individual resale or redistribution as standalone stock music.
+
+Special thanks to the Pixabay artist community for providing high-quality soundscapes that empower mental performance and focus.
